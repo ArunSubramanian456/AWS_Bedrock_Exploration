@@ -21,7 +21,7 @@ accept = "application/json"
 content_type = "application/json"
 
 # STEP 6: Define the prompt for the model.
-prompt = """A photograph of indian filter coffee on an brass tumbler along with newspaper on a table."""
+prompt = """A photograph of indian filter coffee in an brass tumbler along with newspaper on a table."""
 
 # STEP 7: Format the request payload using the model's native structure.
 body = json.dumps({
