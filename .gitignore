@@ -1,0 +1,9 @@
+**/__pycache__/
+**/.ipynb_checkpoints/
+**/.env
+**/db/
+**/my_venv/
+my_venv/
+.aws/credentials
+.aws/config
+*.pem
